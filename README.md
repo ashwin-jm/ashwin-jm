@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwin-jm
-- 👀 I’m interested in Python and React
+- 👀 I’m interested in Python and data science
 - 🌱 I’m currently learning Django
 - 📫 How to reach me ashwin25112000@gmail.com
 

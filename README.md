@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ashwin-jm
-- 👀 I’m interested in Python and data science
-- 🌱 I’m currently learning android app development
+- 👀 I have an interest in Python and data science
+- 🌱 I’m currently learning web development
+- I have also explored the field app development 
 - 📫 How to reach me ashwin25112000@gmail.com
 
 <!---
